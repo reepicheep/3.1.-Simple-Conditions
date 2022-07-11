@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 0to9 to Text", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bonus Score", "06. Bonus Score\06. Bonus Score.csproj", "{1047F42F-A040-48E7-A306-BE4838D9D835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Seconds", "07. Sum Seconds\07. Sum Seconds.csproj", "{23F3B02C-1645-46C7-A4B3-EB9240B61632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Metric Converter", "08. Metric Converter\08. Metric Converter.csproj", "{6D2C446F-F6AA-4ED2-ABF5-7A698BDFCB52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{1047F42F-A040-48E7-A306-BE4838D9D835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1047F42F-A040-48E7-A306-BE4838D9D835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1047F42F-A040-48E7-A306-BE4838D9D835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F3B02C-1645-46C7-A4B3-EB9240B61632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F3B02C-1645-46C7-A4B3-EB9240B61632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F3B02C-1645-46C7-A4B3-EB9240B61632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F3B02C-1645-46C7-A4B3-EB9240B61632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2C446F-F6AA-4ED2-ABF5-7A698BDFCB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2C446F-F6AA-4ED2-ABF5-7A698BDFCB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2C446F-F6AA-4ED2-ABF5-7A698BDFCB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2C446F-F6AA-4ED2-ABF5-7A698BDFCB52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
