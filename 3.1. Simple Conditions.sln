@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. Greater Number\04. Greater Number.csproj", "{E7C95F42-C1D9-4C16-B998-9FE54F23D963}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 0to9 to Text", "05. Number 0to9 to Text\05. Number 0to9 to Text.csproj", "{B7B26092-5201-4252-A43A-3B58BBE6AD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bonus Score", "06. Bonus Score\06. Bonus Score.csproj", "{1047F42F-A040-48E7-A306-BE4838D9D835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B26092-5201-4252-A43A-3B58BBE6AD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B26092-5201-4252-A43A-3B58BBE6AD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B26092-5201-4252-A43A-3B58BBE6AD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B26092-5201-4252-A43A-3B58BBE6AD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1047F42F-A040-48E7-A306-BE4838D9D835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1047F42F-A040-48E7-A306-BE4838D9D835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1047F42F-A040-48E7-A306-BE4838D9D835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1047F42F-A040-48E7-A306-BE4838D9D835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
