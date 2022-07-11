@@ -52,6 +52,7 @@ namespace _08.Metric_Converter
                 result = (num / 1000) * 1.0936133;
             }
 
+
             if (metric1 == "cm" && metric2 == "mm")
             {
                 result = num * 10;
@@ -91,6 +92,7 @@ namespace _08.Metric_Converter
             {
                 result = (num / 100) * 1.0936133;
             }
+
 
             if (metric1 == "m" && metric2 == "mm")
             {
@@ -132,6 +134,7 @@ namespace _08.Metric_Converter
                 result = num * 1.0936133;
             }
 
+
             if (metric1 == "mi" && metric2 == "mm")
             {
                 result = (num / 0.000621371192) * 1000;
@@ -171,6 +174,7 @@ namespace _08.Metric_Converter
             {
                 result = (num / 0.000621371192) * 1.0936133;
             }
+
 
             if (metric1 == "in" && metric2 == "mm")
             {
@@ -212,6 +216,7 @@ namespace _08.Metric_Converter
                 result = (num / 39.3700787) * 1.0936133;
             }
 
+
             if (metric1 == "km" && metric2 == "mm")
             {
                 result = (num / 0.001) * 1000;
@@ -250,6 +255,7 @@ namespace _08.Metric_Converter
             {
                 result = (num / 0.001) * 1.0936133;
             }
+
 
             if (metric1 == "ft" && metric2 == "mm")
             {
@@ -291,6 +297,7 @@ namespace _08.Metric_Converter
                 result = (num / 3.2808399) * 1.0936133;
             }
 
+
             if (metric1 == "yd" && metric2 == "mm")
             {
                 result = (num / 1.0936133) * 1000;
@@ -330,6 +337,7 @@ namespace _08.Metric_Converter
             {
                 result = (num / 1.0936133) * 1.0936133;
             }
+
 
             Console.WriteLine(result + " " + metric2);
         }
