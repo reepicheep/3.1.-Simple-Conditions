@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Excellent Result", "01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Excellent or Not", "02. Excellent or Not\02. Excellent or Not.csproj", "{FC22190B-8CCC-49F1-B28A-550DD6FD3FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even or Odd\03. Even or Odd.csproj", "{E2CCB282-901B-4D13-91C7-0A2C289CF727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. Greater Number\04. Greater Number.csproj", "{E7C95F42-C1D9-4C16-B998-9FE54F23D963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FC22190B-8CCC-49F1-B28A-550DD6FD3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC22190B-8CCC-49F1-B28A-550DD6FD3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC22190B-8CCC-49F1-B28A-550DD6FD3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CCB282-901B-4D13-91C7-0A2C289CF727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CCB282-901B-4D13-91C7-0A2C289CF727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CCB282-901B-4D13-91C7-0A2C289CF727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CCB282-901B-4D13-91C7-0A2C289CF727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C95F42-C1D9-4C16-B998-9FE54F23D963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
